@@ -1,0 +1,102 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current Language"
+  },
+  "preferred": "Preferred",
+  "@preferred": {
+    "description": "Preferred"
+  },
+  "lang_txt": "Language",
+  "@lang_tx": {
+    "description": "Language"
+  },
+  "continue_txt": "Continue",
+  "@continue_txt": {
+    "description": "Continue"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "skip"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "next"
+  },
+  "finish": "Finish",
+  "@finish": {
+    "description": "finish"
+  },
+  "username": "Username",
+  "@username": {
+    "description": "username"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "password"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "login"
+  },
+  "terms": "Terms and Conditions",
+  "@terms": {
+    "description": "terms"
+  },
+  "signInError": "Unable to login, Please try again!",
+  "@signInError": {
+    "description": "loginError"
+  },
+  "langError": "Please select your language!",
+  "@langError": {
+    "description": "langError"
+  },
+  "success": "Success!",
+  "@success": {
+    "description": "success"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "error"
+  },
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "refresh"
+  },
+  "loan":"Loan",
+  "@loan":{
+    "description": "loan"
+  },
+    "leave":"Leave",
+  "@leave":{
+    "description": "leave"
+  },
+    "request":"Request",
+  "@request":{
+    "description": "request"
+  },
+  "profile":"Profile",
+  "@profile":{
+    "description": "profile"
+  },
+  "myProfile" : "My Profile",
+  "@myProfile":{
+    "description": "my profile"
+  },
+  "loansSummary" : "Loans Summary",
+  "@loansSummary":{
+    "description": "loans summary"
+  },
+  "leavesSummary" : "Leaves Summary",
+  "@leavesSummary":{
+    "description": "leaves summary"
+  },
+  "requests" : "Requests",
+  "@requests":{
+    "description": "requests"
+  },
+  "welcome" : "Welcome",
+  "@welcome":{
+    "description": "welcome"
+  }
+}

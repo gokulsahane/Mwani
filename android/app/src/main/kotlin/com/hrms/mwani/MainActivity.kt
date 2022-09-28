@@ -1,0 +1,6 @@
+package com.hrms.mwani
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
